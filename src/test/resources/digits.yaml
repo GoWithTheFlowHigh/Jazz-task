@@ -1,0 +1,193 @@
+items:
+  -
+    positionInClass: 0
+    number: "0"
+    genders:
+      MALE: "ноль"
+  -
+    positionInClass: 0
+    number: "1"
+    genders:
+      MALE: "один"
+      FEMALE: "одна"
+    form: SINGULAR
+    case: NOMINATIVE
+  -
+    positionInClass: 0
+    number: "2"
+    genders:
+      MALE: "два"
+      FEMALE: "две"
+    form: SINGULAR
+  -
+    positionInClass: 0
+    number: "3"
+    genders:
+      MALE: "три"
+    form: SINGULAR
+  -
+    positionInClass: 0
+    number: "4"
+    genders:
+      MALE: "четыре"
+    form: SINGULAR
+  -
+    positionInClass: 0
+    number: "5"
+    genders:
+      MALE: "пять"
+  -
+    positionInClass: 0
+    number: "6"
+    genders:
+      MALE: "шесть"
+  -
+    positionInClass: 0
+    number: "7"
+    genders:
+      MALE: "семь"
+  -
+    positionInClass: 0
+    number: "8"
+    genders:
+      MALE: "восемь"
+  -
+    positionInClass: 0
+    number: "9"
+    genders:
+      MALE: "девять"
+  -
+    positionInClass: 1
+    number: "10"
+    genders:
+      MALE: "десять"
+  -
+    positionInClass: 1
+    number: "11"
+    genders:
+      MALE: "одиннадцать"
+  -
+    positionInClass: 1
+    number: "12"
+    genders:
+      MALE: "двенадцать"
+  -
+    positionInClass: 1
+    number: "13"
+    genders:
+      MALE: "тринадцать"
+  -
+    positionInClass: 1
+    number: "14"
+    genders:
+      MALE: "четырнадцать"
+  -
+    positionInClass: 1
+    number: "15"
+    genders:
+      MALE: "пятнадцать"
+  -
+    positionInClass: 1
+    number: "16"
+    genders:
+      MALE: "шестнадцать"
+  -
+    positionInClass: 1
+    number: "17"
+    genders:
+      MALE: "семнадцать"
+  -
+    positionInClass: 1
+    number: "18"
+    genders:
+      MALE: "восемнадцать"
+  -
+    positionInClass: 1
+    number: "19"
+    genders:
+      MALE: "девятнадцать"
+  -
+    positionInClass: 1
+    number: "2"
+    genders:
+      MALE: "двадцать"
+  -
+    positionInClass: 1
+    number: "3"
+    genders:
+      MALE: "тридцать"
+  -
+    positionInClass: 1
+    number: "4"
+    genders:
+      MALE: "сорок"
+  -
+    positionInClass: 1
+    number: "5"
+    genders:
+      MALE: "пятьдесят"
+  -
+    positionInClass: 1
+    number: "6"
+    genders:
+      MALE: "шестьдесят"
+  -
+    positionInClass: 1
+    number: "7"
+    genders:
+      MALE: "семьдесят"
+  -
+    positionInClass: 1
+    number: "8"
+    genders:
+      MALE: "восемьдесят"
+  -
+    positionInClass: 1
+    number: "9"
+    genders:
+      MALE: "девяносто"
+  -
+    positionInClass: 2
+    number: "1"
+    genders:
+      MALE: "сто"
+  -
+    positionInClass: 2
+    number: "2"
+    genders:
+      MALE: "двести"
+  -
+    positionInClass: 2
+    number: "3"
+    genders:
+      MALE: "триста"
+  -
+    positionInClass: 2
+    number: "4"
+    genders:
+      MALE: "четыреста"
+  -
+    positionInClass: 2
+    number: "5"
+    genders:
+      MALE: "пятьсот"
+  -
+    positionInClass: 2
+    number: "6"
+    genders:
+      MALE: "шестьсот"
+  -
+    positionInClass: 2
+    number: "7"
+    genders:
+      MALE: "семьсот"
+  -
+    positionInClass: 2
+    number: "8"
+    genders:
+      MALE: "восемьсот"
+  -
+    positionInClass: 2
+    number: "9"
+    genders:
+      MALE: "девятьсот"
